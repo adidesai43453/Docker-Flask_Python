@@ -40,8 +40,8 @@ flask-docker-demo/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/flask-docker-demo.git
-cd flask-docker-demo
+git clone https://github.com/adidesai43453/Docker-Flask_python.git
+cd Docker-Flask_python
 ```
 
 ### 2. Create a virtual environment (Optional)
